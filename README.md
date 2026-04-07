@@ -50,7 +50,7 @@ Next.js, Docker
 
 
 
-**Open to:** Remote AI / ML Engineer roles
+**Open to:** AI / ML Engineer roles
 
 
 
