@@ -1,16 +1,60 @@
-## Hi there 👋
+### AI Engineer | Production RAG Systems
 
-<!--
-**abdmaherag/abdmaherag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+Building LLM pipelines that ship. Currently focused on retrieval,
+
+
+
+evaluation, and full-stack RAG.
+
+
+
+
+
+
+
+**Featured project:** [Multi-Documents-RAG](https://github.com/abdmaherag/Multi-Documents-RAG)
+
+
+
+Full-stack multi-document RAG with hybrid retrieval (BM25 + vector RRF),
+
+
+
+semantic chunking, multi-query expansion, streaming citations.
+
+
+
+Live demo: https://multi-doc-rag.netlify.app
+
+
+
+
+
+
+
+**Stack:** Python, FastAPI, LangChain, ChromaDB, sentence-transformers,
+
+
+
+Next.js, Docker
+
+
+
+
+
+
+
+**Open to:** Remote AI / ML Engineer roles
+
+
+
+**Reach me:** [E-mail](abdulrahmanmaherag@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abdulrahman-abughazaleh/)
+
+
+
