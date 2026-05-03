@@ -1,14 +1,15 @@
 ### AI Engineer | Production RAG Systems
 
-Building LLM pipelines that ship. Currently focused on retrieval, evaluation, and agentic systems.
+Building LLM pipelines that ship. Currently focused on retrieval,
+evaluation, and full-stack RAG.
 
-**Mosaic** — [github.com/abdmaherag/mosaic](https://github.com/abdmaherag/mosaic) | [Live Demo](https://mosaic-r.netlify.app/)
-Full-stack multi-document RAG with hybrid retrieval (BM25 + vector RRF), semantic chunking, multi-query expansion, and streaming citations.
+**Featured project:** [Mosaic](https://github.com/abdmaherag/mosaic)
+Full-stack multi-document RAG with hybrid retrieval (BM25 + vector RRF),
+semantic chunking, multi-query expansion, streaming citations.
+Live demo: https://mosaic-r.netlify.app
 
-**Stitch** — [github.com/abdmaherag/Stitch](https://github.com/abdmaherag/Stitch)
-Multi-agent resume tailoring pipeline — 5-dimensional JD scorer, post-LLM validator, config-driven sections. Outputs a tailored LaTeX resume per job.
-
-**Stack:** Python, FastAPI, Anthropic SDK, ChromaDB, Sentence-Transformers, Next.js, Docker
+**Stack:** Python, FastAPI, LangChain, ChromaDB, sentence-transformers,
+Next.js, Docker
 
 **Open to:** AI / ML Engineer roles
-**Reach me:** [Email](mailto:abdulrahmanmaherag@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abdulrahman-abughazaleh/)
+**Reach me:** [E-mail](mailto:abdulrahmanmaherag@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abdulrahman-abughazaleh/)
